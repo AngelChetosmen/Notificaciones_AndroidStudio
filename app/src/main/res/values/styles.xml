@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryDark">#303F9F</item>
+        <item name="colorAccent">#FF4081</item>
+        <!-- Agrega tu atributo tools:targetApi aquí -->
+        <item name="android:background" tools:targetApi="lollipop">@color/white</item>
+    </style>
+    <!-- Define the NotificationAlarm theme -->
+    <style name="Theme.NotificationAlarm" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here if needed -->
+    </style>
+
+</resources>
