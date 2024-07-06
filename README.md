@@ -1,6 +1,6 @@
 # Notificaciones Android Studio
 
-Repositorio de un proyecto realizado en Android Studio con ejemplos de implementación de notificaciones en una aplicación Android. Este proyecto fue realizado como una práctica realizada para la Unidad de Aprendizaje llamada ' Desarrollo de Aplicaciones Móviles ' impartida en la Escuela Superior de Cómputo del IPN en la Cuidad de México, México. 
+Repositorio de un proyecto realizado en Android Studio con ejemplos de implementación de notificaciones en una aplicación Android. Este proyecto fue realizado como una práctica realizada para la Unidad de Aprendizaje llamada ' Desarrollo de Aplicaciones Móviles ' impartida en la Escuela Superior de Cómputo del IPN en la Ciudad de México, México. 
 
 ## Descripción
 
